@@ -1,5 +1,8 @@
 _repo: Castle-Nowhere_6436
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Woolson, Constance Fenimore
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
 description: Castle Nowhere -- Jeannette -- The old agency -- Patience Dow [poem]
   / Marion Douglas [i.e. A. Robinson].
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6436#Castle-Nowhere
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
